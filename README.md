@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+![](https://komarev.com/ghpvc/?username=ftmahringer&color=red&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge)
+
 <!--
 **Fmahring/Fmahring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
